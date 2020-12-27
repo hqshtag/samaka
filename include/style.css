@@ -1,0 +1,47 @@
+body {
+font-family: 'Barlow', sans-serif;
+
+}
+header{
+background-color : #FFFFFF ;
+}
+.logo {
+ width : 135px ;
+}
+
+
+.landing
+{
+	display : flex ;
+	
+}
+
+.landing__blue-container{
+	background-color : #2B5897 ;
+	color : white ;
+	width : 70% ;
+	height : 90vh ;
+	text-align : right ;
+	padding : 15% 10% 0 0 ;
+	
+	
+	
+	
+	
+}
+.landing__img
+{
+	width : 30% ;
+
+	margin : 100px 0 0 30px ;
+	
+	
+}
+.landing__h4
+{
+	padding : 15%  0 0 ;
+}
+
+
+
+
